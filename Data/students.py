@@ -1,0 +1,15 @@
+students = {
+    'FIRST_NAME': ['Daniel', 'Ben', 'Kavita', 'Linda', 
+                    'Omar','Jane', 'Felicia', 'Rachel', 
+                    'Bob'],
+    'LAST_NAME': ['Smith', 'Leibstrom', 'Kanabar', 'Thiel',
+                  'Reichel', 'OConner', 'Rao', 'Crock', 
+                  'McDonald'],
+    'YEAR': [1, 1, 1, 4, 2, 2, 3, 1, 1],
+    'HOME_STATE': ['NY', 'NY', 'PA', 'CA', 'OK', 'HI', 
+                   'NY','FL', 'FL'],
+    'AGE': [18, 19, 19, 22, 21, 19, 20, 17, 18],
+    'CALC_101_FINAL': [90, 80, None, 60, 70, None,None, 
+                       None, 98],
+    'ENGLISH_101_FINAL': [80, None, None, 40, 50, None,
+                          None, 60, 65]}
